@@ -1,6 +1,7 @@
 This is my Master Branch
-
+<<<<<<< HEAD
 This is my Feature1 Branch
-
+=======
 This is my Feature2 Branch
 
+>>>>>>> Feature2
